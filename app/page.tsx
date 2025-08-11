@@ -154,7 +154,7 @@ export default function StudentPortal() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
               <GraduationCap className="h-8 w-8 text-blue-600" />
-              <h1 className="text-xl font-bold text-gray-900">Student Academic Portal</h1>
+              <h1 className="text-xl font-bold text-gray-900">Student Academic Portal (makaut edition)</h1>
             </div>
             <p className="text-sm text-gray-600">Track your academic progress & find scholarships</p>
           </div>
